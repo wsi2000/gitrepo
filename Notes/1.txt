@@ -5,13 +5,13 @@ Creation-Date: 2018-01-11T08:18:38+01:00
 ====== 1 ======
 Created czwartek 11 styczeń 2018
 
-Najważniejsze własnosci algorytmów(kryteria):
+**Najważniejsze własnosci algorytmów(kryteria):**
 - poprawność 
 - skończony 
 - złożoność 
 -efektywność
-Algorytm: całkowicie poprawmy i częściowo poprawne.
-Indukcja-sposób rozumowania.
-Występowanie błędów:
+**Algorytm**: całkowicie poprawmy i częściowo poprawne.
+**Indukcja-**sposób rozumowania.
+**Występowanie błędów:**
 -składniowe
 -logiczne

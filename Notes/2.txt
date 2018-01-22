@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-16T09:56:13+01:00
+
+====== 2 ======
+Created wtorek 16 styczeń 2018
+
+**Złożoność pamięciowa algorytmu;**
+-mówi jak dużo pamięci potrzebuje do wykonania algorytmu.
+(działają w pętli)
+
+**Algorytmy rekurencyjne są bardziej złożone pamięciowo niż interacyjne.**
+
+**Złożoność czasowa** nie zależy od fizycznego czasu złożenia.
+Należy wziąć pod uwagę **liczbę wykonywanych operacji podstawowych.**
+Złożoność czasowa jest pewnego rodzaju funkcjią wielkości zbioru danych.
+
+**Efektywność algorytmu; **bierze pod uwagę praktyczne zastosowanie algorytmu w programie. (ocena złożoności)
+
+**Algorytmy:**
+ -liniowe(sekwencyjne) 
+-nieliniowe(niesekwencyjne)
+-iteracyjne (pętla)
+-rekurencyjne(wywołuje sama siebie)
+-numerowe(algorytm Euklidesa, liczby Fibonacciego itp..)
+-nienumerowe(kubełkowe/pozycyjne  sortowanie słów)
+
