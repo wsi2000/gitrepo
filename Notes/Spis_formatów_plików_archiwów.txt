@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-06T09:57:40+01:00
+
+====== Spis formatów plików archiwów ======
+Created wtorek 06 luty 2018
+
+1.ZIP
+2.RAR
+3.7z
+4.TAR
+
+
+

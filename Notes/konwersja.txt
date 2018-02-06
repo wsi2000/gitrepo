@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-06T09:57:23+01:00
+
+====== konwersja ======
+Created wtorek 06 luty 2018
+
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-30T10:29:19+01:00
+
+====== Kompresja ======
+Created wtorek 30 styczeń 2018
+
+Zmniejszanie rozmiaru czegoś w celu zachowania intotnych informacji
+kompresja to np odtwarzanie filmów itp
+
+Rodzaje kompresji
+1. KOmpresja stratna 
+a) dżwięk - MP3, OGG(usunięte niesłyszalne dla ucha człowieka dźwieki )
+b) obraz - JPG, PNG
+c ) filmy - MPEG1,MPG2,MPG4, .avi, .mp4
+
+Jakość kompresji zależy od przepływości (Bit Rejt- ilość informacji w jednostce czasu ) b/s, Kb/s, Mb/s.  Komórki mają gorszą przepłyność
+
+DivX - DO KODOWANIA FILMÓW I OBRAZÓW DAWNIEJ 
+Xvid - 
+
+Download-  przepływnośc w momencie pobierania informacji
+Upload- max przepływność
+
+__Algorytm słownikowy__ 
+
+The rain in Spain falls mainly on the plain. 
+The rain <3,3> Sp<9, 4> falls m <11,3>ly on t< 34, 3 > pl<15,3>. 
+
+ <3- cofnij sie trzy znaki wcześniej,3- weź trzy znaki>
+
+6 bitów+2 bity = 8 bitów
+33 bajty / 44 bajty * 100 = ~ 75%
+
+Współczynnik kompresji
+Rc = Vk- wielkośc skompresowana / Vnk- nieskomresowana * 100
+100% - Rc — informacja o ile zmniejszył się kompresowany zbiór 
+
+Rc 7z=  218,4 kB /633,1 kB * 100 = 34,5 %
+
+Rc zip = 340,7 kB /633,1 kB * 100 = 54 %

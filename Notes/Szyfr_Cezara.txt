@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-06T10:02:09+01:00
+
+====== Szyfr Cezara ======
+Created wtorek 06 luty 2018
+
+Szyfrowanie polega na ukryciu danych (np. tektu) (kryptografia)
+Otrzymujemy w ten sposób SZYFROGRAM.
+Odczytywanie ukrytej wiadomości to deszyfracja(kryptoanaliza).
+Kryptografia+ kryptoanaliza = kryptologia
+
+Do odszyfrowania szyfrogramu potrzebny jest :
+algorytmy szyfrowania
