@@ -70,4 +70,8 @@ def main(args):
 
 if __name__ == '__main__':
     import sys
+<<<<<<< HEAD
 sys.exit(main(sys.argv))
+=======
+    sys.exit(main(sys.argv))
+>>>>>>> d0344a6f02ceb94c967f5a042695f0fac797c4ea
