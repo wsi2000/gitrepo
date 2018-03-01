@@ -12,3 +12,12 @@ Kryptografia+ kryptoanaliza = kryptologia
 
 Do odszyfrowania szyfrogramu potrzebny jest :
 algorytmy szyfrowania
+
+**Szyfry podstawieniowy **
+**-Cezara**
+
+**Szyfr przestawieniowy **
+**zapis tekstu w wierszu o ustalonej dłogości.**
+**Klucz to ilość kolum, na ktory dzielimy tekst.**
+
+
