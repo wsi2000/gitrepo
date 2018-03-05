@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-05T11:57:36+01:00
+
+====== system operacyjny ======
+Created poniedziałek 05 marzec 2018
+
+**Architektura von Neumanna –** pierwszy rodzaj architektury komputera.
+**Jednostka arytmetyczno logiczna- procesor-składa się z rejestrów**, mają różne przeznaczenie, ale nie zależnie o jakim byśmy mówili, są rejestry ktore występują we wszystkich komputerach.
+
+**Podział rejstrów ze względu na stosowanie:**
+-danych
+-adresowe
+-ogólnego stosowania
+-zmiennoprzecinkowe
+-stałych
+-wektorowe
+-specjalnych
+-instrukcji
+
+**Magistrala;**
+-**szyna sterująca**- synchronizuje prace  wszystkim urządzeni.
+-**szyna adresowa- **z jakich komórek pamięci jednostka centralna będzie wykonywała odczyty lub do których będzie realizowała zapisy danych.
+**-szyna danych- **służy do przechowywania danych .
+
+Pamięć ROM- pamięć- tylko do odczytu.
+Pamięć RAM- pamięć o dostępie swobodnym (w dowolnym momencie można odczytać dowolną komórkę).
+
+**BIOS**-podstawowy system wejścia- wyjścia-zapisany w pamięci stałej zestaw podsumowych pośredniczących pomiedxzy systemem operacyjnym,a sprzętem.
+Został zastąpiony UEFI.
+**x86-64;-**64-bitowa architektura procesorów firm
+Do architektury procesora musi być dopasowany system operacyjny.
+
+
+
+
+
+
