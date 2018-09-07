@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T12:33:08+02:00
+
+====== Home ======
+Created piątek 07 września 2018
+
+git pull
+git status 
+git add [[./git]] add 
+git commit - "dodaniegit push
+"
